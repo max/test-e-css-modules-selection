@@ -1,0 +1,3 @@
+.is-selected {
+  composes: is-selected from 'test-selection/components/component-a/styles';
+}
